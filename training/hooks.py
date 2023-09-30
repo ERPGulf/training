@@ -214,3 +214,6 @@ app_license = "mit"
 # auth_hooks = [
 #	"training.auth.validate"
 # ]
+fixtures = [
+    {"dt": "Airport"}
+]
