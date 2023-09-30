@@ -217,5 +217,7 @@ app_license = "mit"
 fixtures = [
     {"dt": "Customer", "filters": [["default_currency", "=", "USD"]]},
     
-    {"dt": "Custom Field", "filters": [["module", "=", "Training" ]]}
+    {"dt": "Custom Field", "filters": [["module", "=", "Training" ]]},
+    
+    {"dt": "Property Setter", "filters": [["module", "=", "Training"]]},
 ]
