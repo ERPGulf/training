@@ -8,30 +8,6 @@
   "title": "Newyork"
  },
  {
-  "airport": "London",
-  "docstatus": 0,
-  "doctype": "Airport",
-  "modified": "2023-09-30 20:33:42.428604",
-  "name": "London",
-  "title": "London"
- },
- {
-  "airport": "Mumbai",
-  "docstatus": 0,
-  "doctype": "Airport",
-  "modified": "2023-09-30 20:33:51.318467",
-  "name": "Mumbai",
-  "title": "Mumbai"
- },
- {
-  "airport": "Riyadh",
-  "docstatus": 0,
-  "doctype": "Airport",
-  "modified": "2023-09-30 20:34:02.960237",
-  "name": "Riyadh",
-  "title": "Riyadh"
- },
- {
   "airport": "Doha",
   "docstatus": 0,
   "doctype": "Airport",

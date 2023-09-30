@@ -215,5 +215,7 @@ app_license = "mit"
 #	"training.auth.validate"
 # ]
 fixtures = [
-    {"dt": "Airport"}
+    {"dt": "Customer", "filters": [["default_currency", "=", "USD"]]},
+    
+    {"dt": "Custom Field", "filters": [["module", "=", "Training" ]]}
 ]
