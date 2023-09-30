@@ -5,7 +5,7 @@ app_description = "Everything on Frappe Programming. A comprehensive training on
 app_email = "support@ERPGulf.com"
 app_license = "mit"
 # required_apps = []
-
+#required_apps = ["frappe_theme"]
 # Includes in <head>
 # ------------------
 
