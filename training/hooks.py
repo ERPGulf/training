@@ -224,4 +224,10 @@ fixtures = [
     {"dt": "Client Script", "filters": [["module", "=", "Training"]]},
     
     {"dt": "Server Script", "filters": [["module", "=", "Training"]]},
+    
+    {"dt": "Print Format", "filters": [["name", "=", "My Print format"]]},
+    
+    {"dt": "DocType", "filters": [["name", "=", "Area"]]}
+    
+    
 ]
