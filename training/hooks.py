@@ -220,4 +220,6 @@ fixtures = [
     {"dt": "Custom Field", "filters": [["module", "=", "Training" ]]},
     
     {"dt": "Property Setter", "filters": [["module", "=", "Training"]]},
+    
+    {"dt": "Server Script", "filters": [["module", "=", "Training"]]},
 ]
